@@ -1,1 +1,1 @@
-# License-Plate-Detection
+# License-Plate-Detection[Vehicle license plate detection using YOLO and CNN (24 x 60 in).pdf](https://github.com/Asadkathia/License-Plate-Detection/files/15420818/Vehicle.license.plate.detection.using.YOLO.and.CNN.24.x.60.in.pdf)
